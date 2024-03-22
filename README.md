@@ -2,10 +2,6 @@
 
 # Desarrollo creado en Angular Y Flask
 
-# Codigo [Front](./Front) 
-
-# Codigo [Back](./Back)
-
 # Despliegue AWS - EC2
 
 ##  http://54.196.151.165/
